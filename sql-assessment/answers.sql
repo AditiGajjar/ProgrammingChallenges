@@ -2,8 +2,6 @@
 I have included comments trhoughout to clarify decisions and to record any important notes. */
 
 
-
-
 /* 1. Write a query to get the sum of impressions by day. */
 
     -- Assuming the question has not asked 'day of the week', so I will use the date
